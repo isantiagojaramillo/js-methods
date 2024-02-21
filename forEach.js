@@ -1,4 +1,4 @@
-import students from './index'; 
+import {students} from './data/data.js'; 
 
 //   students.forEach(function(student, index, students) {
 //     console.log(student);
